@@ -1,0 +1,13 @@
+.search-block {
+  margin-bottom: 3rem;
+}
+
+.form-control {
+  box-sizing: border-box;
+  border-radius: 4px;
+  box-shadow: 15px 15px 30px rgba(0, 0, 0, 0.15);
+  padding: 0.6rem 1.2rem;
+  font-size: 1.6rem;
+  width: 35rem;
+  margin-right: 2rem;
+}
